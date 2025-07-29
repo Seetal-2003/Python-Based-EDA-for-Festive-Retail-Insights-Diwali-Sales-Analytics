@@ -162,9 +162,9 @@ This project analyzes customer purchase behavior during the Diwali festival seas
 
 💡 \*\*Insights\*\*  
 
-\- \*\*Top Performing States\*\*: Uttar Pradesh, Maharashtra, and Karnataka contributed the most to sales revenue.
+\- Top Performing States: Uttar Pradesh, Maharashtra, and Karnataka contributed the most to sales revenue.
 
-\- \*\*Gender Trend\*\*: Females outnumbered males in both number of purchases and spending, indicating higher purchasing power among women during Diwali.
+\- Gender Trend: Females outnumbered males in both number of purchases and spending, indicating higher purchasing power among women during Diwali.
 
 \- \*\*Age Group\*\*: The 26–35 age group had the highest customer engagement and spending.
 
