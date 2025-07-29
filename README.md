@@ -166,13 +166,13 @@ This project analyzes customer purchase behavior during the Diwali festival seas
 
 \- Gender Trend: Females outnumbered males in both number of purchases and spending, indicating higher purchasing power among women during Diwali.
 
-\- \*\*Age Group\*\*: The 26–35 age group had the highest customer engagement and spending.
+\- Age Group: The 26–35 age group had the highest customer engagement and spending.
 
-\- \*\*Marital Status\*\*: A large majority of buyers were married women, showing stronger shopping activity during the festival.
+\- Marital Status: A large majority of buyers were married women, showing stronger shopping activity during the festival.
 
-\- \*\*Occupation Insight\*\*: Customers working in IT, Healthcare, and Aviation made the most purchases and spent the most.
+\- Occupation Insight: Customers working in IT, Healthcare, and Aviation made the most purchases and spent the most.
 
-\- \*\*Popular Categories\*\*: Food, Clothing, and Electronics were the top-selling product categories.
+\- Popular Categories: Food, Clothing, and Electronics were the top-selling product categories.
 
 
 
